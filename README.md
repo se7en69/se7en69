@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Rehman Ikram
-- 👀 I’m interested in Command Line Bioinformatics |Data Scientist |Computational Biology |Python&R |Metabolomics |Pipeline Designing |Single Cell Genomics
-- 🌱 I’m currently learning Bioinformatics | Python&R | Metabolomics | Bioinformatics Scripting
+- 👀 I’m interested in Command Line Bioinformatics |Data Scientist |Computational Biology |Python&R |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping
+- 🌱 I’m currently learning Bioinformatics | Python&R | Metabolomics | Bioinformatics Scripting | Plant Phenotyping
 - 💞️ I’m looking to collaborate on Bioinfomratics Pipeline Designing 
 - 📫 How to reach me | Mail: Abdul@bioinformatics.pk
 
