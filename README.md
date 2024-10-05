@@ -1,16 +1,7 @@
 Hello <b> Abdul Rehman Ikram </b> here👋 
-- 👀 I’m interested in Command Line Bioinformatics |Data Science |Computational Biology |Python&R |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping
-- 🌱 I’m currently learning Bioinformatics | Python&R | Metabolomics | Bioinformatics Scripting | Plant Phenotyping
-- 💞️ I’m looking to collaborate on Bioinfomratics Pipeline Designing | Plant Phenotyping through Python
-- 📫 How to reach me | Mail: hanzo7n@gmail.com
-- Linkdlin id: https://www.linkedin.com/in/hanzo7/
-<!---
-se7en69/se7en69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 # 💫 About Me:
-🔭 I’m currently working on Command Line Bioinformatics |Data Science |Computational Biology |Python |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping<br>👯 I’m looking to collaborate on Bioinformatics Pipeline Designing | Plant Phenotyping through Python<br>🤝 I’m looking for help with Bioinformatics | Python and R | Metabolomics | Bioinformatics Scripting | Plant Phenotyping<br>🌱 I’m currently learning Command Line Bioinformatics |Data Science |Computational Biology |Python&R |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping<br>💬 Ask me about Bioinformatics <br>⚡ Fun fact love to code
+🔭 I’m currently working on Command Line Bioinformatics |Data Science |Computational Biology |Python |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping<br>👯 I’m looking to collaborate on Bioinformatics Pipeline Designing | Plant Phenotyping through Python<br>🤝 I’m looking for help with Bioinformatics | Python and R | Metabolomics | Bioinformatics Scripting | Plant Phenotyping<br>🌱 I’m currently learning Command Line Bioinformatics |Data Science |Computational Biology |Python&R |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping<br>💬 Ask me about Bioinformatics <br>⚡ Fun fact love to code 📫 How to reach me | Mail: hanzo7n@gmail.com 
 
 
 ## 🌐 Socials:
