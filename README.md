@@ -1,7 +1,7 @@
 Hello <b> Abdul Rehman Ikram </b> here👋 
 
 # 💫 About Me:
-🔭 I’m currently working on Command Line Bioinformatics |Data Science |Computational Biology |Python |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping<br>👯 I’m looking to collaborate on Bioinformatics Pipeline Designing | Plant Phenotyping through Python<br>🤝 I’m looking for help with Bioinformatics | Python and R | Metabolomics | Bioinformatics Scripting | Plant Phenotyping<br>🌱 I’m currently learning Command Line Bioinformatics |Data Science |Computational Biology |Python&R |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping<br>💬 Ask me about Bioinformatics <br>⚡ Fun fact love to code 📫 How to reach me | Mail: hanzo7n@gmail.com 
+🔭 I’m currently working on Command Line Bioinformatics |Data Science |Computational Biology |Python |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping<br>👯 I’m looking to collaborate on Bioinformatics Pipeline Designing | Plant Phenotyping through Python<br>🤝 I’m looking for help with Bioinformatics | Python and R | Metabolomics | Bioinformatics Scripting | Plant Phenotyping<br>🌱 I’m currently learning Command Line Bioinformatics |Data Science |Computational Biology |Python&R |Metabolomics |Pipeline Designing |Single Cell Genomics | Plant Phenotyping<br>💬 Ask me about Bioinformatics <br>⚡ Fun fact love to code <br>  📫 How to reach me | Mail: hanzo7n@gmail.com 
 
 
 ## 🌐 Socials:
